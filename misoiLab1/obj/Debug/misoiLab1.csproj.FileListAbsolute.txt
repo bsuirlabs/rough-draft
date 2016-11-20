@@ -1,0 +1,9 @@
+D:\9сем\misoiLab1\misoiLab1\bin\Debug\misoiLab1.exe.config
+D:\9сем\misoiLab1\misoiLab1\bin\Debug\misoiLab1.exe
+D:\9сем\misoiLab1\misoiLab1\bin\Debug\misoiLab1.pdb
+D:\9сем\misoiLab1\misoiLab1\obj\Debug\misoiLab1.csprojResolveAssemblyReference.cache
+D:\9сем\misoiLab1\misoiLab1\obj\Debug\misoiLab1.Form1.resources
+D:\9сем\misoiLab1\misoiLab1\obj\Debug\misoiLab1.Properties.Resources.resources
+D:\9сем\misoiLab1\misoiLab1\obj\Debug\misoiLab1.csproj.GenerateResource.Cache
+D:\9сем\misoiLab1\misoiLab1\obj\Debug\misoiLab1.exe
+D:\9сем\misoiLab1\misoiLab1\obj\Debug\misoiLab1.pdb
